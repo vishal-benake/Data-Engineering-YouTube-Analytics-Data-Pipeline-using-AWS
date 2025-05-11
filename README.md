@@ -2,8 +2,8 @@
 
 
 ---
-title: YouTube Trending Videos Data Pipeline
-description: A cloud-based data engineering project for ingestion, transformation, storage, and visualization of trending YouTube video data.
+- **Title:** YouTube Trending Videos Data Pipeline
+- **Description:** A cloud-based data engineering project for ingestion, transformation, storage, and visualization of trending YouTube video data.
 ---
 
 ## 📌 Overview
